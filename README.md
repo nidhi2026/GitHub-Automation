@@ -14,3 +14,5 @@ Here you will get the links to drivers https://pypi.org/project/selenium/ .
 
 In my case I am using chromedriver (Remember the version of your chrome driver should match up with the version of chrome you are using)
 and once can use any web browser like firfox, safari, edge, of your choice...
+
+As for chromedriver, you can go to `https://chromedriver.chromium.org/downloads`
